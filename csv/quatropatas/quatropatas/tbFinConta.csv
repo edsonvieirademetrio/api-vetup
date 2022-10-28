@@ -1,0 +1,24 @@
+cod_unid_negoc,cod_unid_oper,id_conta,cod_conta,desc_conta,ind_clas_contabil,ind_tipo_conta,ind_nivel,id_conta_pai,ind_situacao,ind_totaliza,cod_banco,cod_agencia,cod_conta_corrente,ind_deposito
+61,1,1,1.00.000,ATIVO, ,B,S,,A,S,,,,N
+61,1,2,1.01.000,Conta Corrente, ,B,S,1.0,A,S,,,,N
+61,1,11,1.01.001,Banco do Brasil - Ag. 3216-6 - c/c 3469-x, ,B,A,2.0,I,S,,,,N
+61,1,4,1.01.002,Banco do Brasil - Ag. 3216-6 - c/c 3468-1, ,B,A,2.0,I,S,,,,N
+61,1,13,1.01.003,Banco do Brasil - Ag. 3216-6 - c/c 12028-6, ,B,A,2.0,I,S,,,,N
+61,1,14,1.01.004,Caixinha, ,B,A,2.0,A,S,,,,N
+61,1,21,1.01.005,Banco do Brasil - Ag. 322-0 - c/c. 103468-5, ,B,A,16.0,A,S,,,,N
+61,1,22,1.01.006,Banco do Brasil - Ag. 322-0 - c/c 103469-3 MGS, ,B,A,2.0,A,S,,,,N
+61,1,26,1.01.008,Banco Santander S/A - Ag 2127 - C/C 000130012168, ,B,A,2.0,I,S,033,2127,000130012168,S
+61,1,23,1.01.009,Banco Do Brasil S.A - Ag 322-0 - C/C 103468-5 - MB, ,B,A,2.0,A,S,001,322-0,103468-5,S
+61,1,28,1.01.010,Banco Itau S.A. - Ag 1514 - C/C 53534-1, ,B,A,2.0,A,S,341,1514,53534-1,S
+61,1,30,1.01.011,Banco Inter - Ag 0001 - C/C 18757430-8, ,B,A,2.0,A,S,077,0001,1875,S
+61,1,10,2.00.000,RECEITA, ,B,S,,A,S,,,,N
+61,1,3,3.00.000,PASSIVO, ,B,S,,A,S,,,,N
+61,2,15,1.00.000,ATIVO, ,B,S,,A,S,,,,N
+61,2,16,1.01.000,Conta Corrente, ,B,S,15.0,A,S,,,,N
+61,2,17,1.01.001,Banco do cliente, ,B,S,16.0,A,S,,,,N
+61,2,18,1.01.002,Caixinha, ,B,A,16.0,A,S,,,,N
+61,2,24,1.01.006,Banco Do Brasil S.A - Ag 322-0 - C/C 103469-3 - MGS, ,B,A,16.0,A,S,001,322-0,103469-3,S
+61,2,27,1.01.007,Banco Santander S/A - Ag 2127 - C/C 000130012175, ,B,A,16.0,A,S,033,2127,000130012175,S
+61,2,29,1.01.008,Itau S.A. - Ag 1514 - C/C 53534-1, ,B,A,16.0,A,S,341,1514,53534-1,S
+61,2,19,2.00.000,RECEITA, ,B,S,,A,S,,,,N
+61,2,20,3.00.000,PASSIVO, ,B,S,,A,S,,,,N

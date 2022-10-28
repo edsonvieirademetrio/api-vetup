@@ -1,0 +1,13 @@
+cod_unid_negoc,cod_unid_oper,id_conta,cod_conta,desc_conta,ind_clas_contabil,ind_tipo_conta,ind_nivel,id_conta_pai,ind_situacao,ind_totaliza,cod_banco,cod_agencia,cod_conta_corrente,ind_deposito
+26,1,1,1.00.000,ATIVO, ,B,S,,A,S,,,,N
+26,1,2,1.01.000,CONTAS, ,B,A,1.0,A,N,,,,N
+26,1,11,1.01.001,HSBC, ,B,A,2.0,I,N,,,,N
+26,1,4,1.01.002,Itau S.A. - Ag 8901 - C/C 11811-0, ,B,A,2.0,A,S,341,8901,11811-0,S
+26,1,12,1.01.003,CAIXINHA DINHEIRO,A,C,A,2.0,A,S,,,,N
+26,1,13,1.01.004,CAIXINHA CHEQUE, ,B,A,2.0,A,S,,,,N
+26,1,17,1.01.005,ITAU - APLICAÇAO, ,B,A,2.0,A,N,,,,N
+26,1,18,1.01.006,COFRE, ,B,A,2.0,A,N,,,,N
+26,1,20,1.01.007,FUNDO DE FERIAS, ,B,A,2.0,A,N,,,,N
+26,1,21,1.01.008,Caixa Econ Federal - Ag 2203 - C/C 1156-1, ,B,A,2.0,A,S,104,2203,1156-1,N
+26,1,10,2.00.000,RECEITA, ,B,A,,A,S,,,,N
+26,1,3,3.00.000,PASSIVO, ,B,A,,A,S,,,,N

@@ -1,0 +1,739 @@
+Baixa,Cliente,Venda,Data,Caixa,Forma,Valor
+02/06/2022 16:57:41,Thais Vidigal,5,44714,Francisco Xavier da Silva Neto,Stone Visa Débito,90
+02/06/2022 16:59:12,Jarlene Rodrigues,4,44714,Francisco Xavier da Silva Neto,Stone Visa Crédito,1200
+02/06/2022 17:00:03,Luciano,3,44714,Francisco Xavier da Silva Neto,Stone Visa Débito,160
+02/06/2022 17:01:33,Jeanderson Henrique,2,44714,Francisco Xavier da Silva Neto,Stone Visa Débito,210
+02/06/2022 17:30:03,Maria José,6,44714,Francisco Xavier da Silva Neto,Dinheiro,220
+02/06/2022 17:31:07,Caio Cesar,1,44714,Francisco Xavier da Silva Neto,Stone Visa Crédito,275
+03/06/2022 17:44:13,Renata Lima,13,44715,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+03/06/2022 17:44:48,Jose da Cunha,12,44715,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+03/06/2022 17:45:52,Tania Maria,10,44715,Francisco Xavier da Silva Neto,Stone Visa Crédito,240
+03/06/2022 17:46:17,Guilherme Amaral,9,44715,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+04/06/2022 13:07:01,Gabriella Dantas Araujo,22,44716,Francisco Xavier da Silva Neto,Dinheiro,110
+04/06/2022 13:07:36,Maira Melo,21,44716,Francisco Xavier da Silva Neto,Stone Visa Débito,80
+04/06/2022 13:08:29,João Victor,17,44716,Francisco Xavier da Silva Neto,Stone Visa Débito,130
+04/06/2022 13:08:59,Roberto Ramos,14,44716,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+04/06/2022 13:11:58,Andre Luiz,16,44716,Francisco Xavier da Silva Neto,Stone Visa Débito,165
+04/06/2022 13:12:44,Jeane Nobre,19,44716,Francisco Xavier da Silva Neto,Stone Visa Crédito,190
+04/06/2022 13:13:29,Alberto Jose,18,44716,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+04/06/2022 13:13:53,Uilliane Rodrigues,20,44716,Francisco Xavier da Silva Neto,Stone Visa Crédito,90
+08/06/2022 12:57:34,Lucas Victor,32,44719,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+08/06/2022 12:58:51,Oscarlan Carneiro,31,44719,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+08/06/2022 12:59:38,Patricia Sumaly,30,44719,Francisco Xavier da Silva Neto,Stone Visa Crédito,165
+08/06/2022 13:03:46,Samara Trigueiro,28,44719,Francisco Xavier da Silva Neto,Stone Visa Débito,500
+08/06/2022 13:04:30,Samara Trigueiro,28,44719,Francisco Xavier da Silva Neto,Stone Visa Crédito,700
+08/06/2022 13:05:02,Mirian Leite,35,44719,Francisco Xavier da Silva Neto,Dinheiro,220
+08/06/2022 13:06:21,Sonia Maria,27,44719,Francisco Xavier da Silva Neto,Stone Visa Crédito,130
+08/06/2022 13:07:13,Janaina Gurgel,36,44719,Francisco Xavier da Silva Neto,Dinheiro,220
+08/06/2022 13:08:13,Ingrid Samara,34,44719,Francisco Xavier da Silva Neto,Stone Visa Crédito,1000
+08/06/2022 13:08:32,Ingrid Samara,34,44719,Francisco Xavier da Silva Neto,Stone Visa Crédito,500
+09/06/2022 09:14:26,Juliana Engelmann,26,44720,Francisco Xavier da Silva Neto,Stone Visa Débito,1140
+14/06/2022 08:17:11,Dayane Tamara,50,44725,Francisco Xavier da Silva Neto,Dinheiro,70
+14/06/2022 08:18:06,Gabriella Dantas Araujo,48,44725,Francisco Xavier da Silva Neto,Stone Visa Crédito,110
+14/06/2022 08:19:14,MARIANA PAIVA,47,44725,Francisco Xavier da Silva Neto,Stone Master Card Crédito,90
+14/06/2022 08:22:04,Vera Reis,56,44726,Francisco Xavier da Silva Neto,Stone Visa Débito,90
+14/06/2022 08:23:34,Cintia Priscila,57,44726,Francisco Xavier da Silva Neto,Dinheiro,140
+14/06/2022 08:25:14,Marta maria,58,44726,Francisco Xavier da Silva Neto,Dinheiro,70
+14/06/2022 08:27:23,Manoel de Santana,59,44726,Francisco Xavier da Silva Neto,Stone Visa Crédito,160
+14/06/2022 08:29:05,Ana Claudia,60,44726,Francisco Xavier da Silva Neto,Stone Visa Débito,80
+14/06/2022 08:29:36,Angelo Martins,49,44725,Francisco Xavier da Silva Neto,Dinheiro,70
+14/06/2022 08:48:04,Inácio de Souza,51,44725,Francisco Xavier da Silva Neto,Dinheiro,60
+15/06/2022 08:04:24,Maria Paula,66,44726,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+15/06/2022 08:06:20,Laercio Pereira,68,44727,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+15/06/2022 08:06:54,Edna Celina,67,44727,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+15/06/2022 08:07:37,Ester Mereciano,64,44726,Francisco Xavier da Silva Neto,Stone Master Card Crédito,175
+15/06/2022 08:08:13,Adilson Neri,63,44726,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+15/06/2022 08:08:38,Irismar Silva,61,44726,Francisco Xavier da Silva Neto,Dinheiro,80
+15/06/2022 08:09:29,Júnior,65,44726,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+15/06/2022 08:09:49,André,62,44726,Francisco Xavier da Silva Neto,Stone Visa Crédito,130
+15/06/2022 08:20:29,Zelandia Maria,52,44725,Francisco Xavier da Silva Neto,Dinheiro,220
+15/06/2022 08:20:48,Roberto Alves,53,44725,Francisco Xavier da Silva Neto,Dinheiro,120
+15/06/2022 08:21:03,Ana Cláudia,54,44725,Francisco Xavier da Silva Neto,Dinheiro,60
+15/06/2022 08:22:48,Simone Tavares,45,44721,Francisco Xavier da Silva Neto,Stone Visa Crédito,1000
+15/06/2022 08:23:07,Flávia,44,44721,Francisco Xavier da Silva Neto,Dinheiro,70
+15/06/2022 08:23:28,Weverton Alves,42,44721,Francisco Xavier da Silva Neto,Dinheiro,220
+15/06/2022 08:23:43,Jaquevania,41,44721,Francisco Xavier da Silva Neto,Dinheiro,80
+15/06/2022 08:24:11,Elson Germano,40,44721,Francisco Xavier da Silva Neto,Stone Visa Crédito,160
+15/06/2022 08:24:32,Raphael Cordeiro,39,44721,Francisco Xavier da Silva Neto,Stone Visa Crédito,130
+15/06/2022 08:25:16,Leonardo Martins,38,44720,Francisco Xavier da Silva Neto,Dinheiro,240
+15/06/2022 08:25:31,Felipe Algusto,37,44720,Francisco Xavier da Silva Neto,Dinheiro,80
+15/06/2022 08:26:07,Isy Dayane,25,44718,Francisco Xavier da Silva Neto,Dinheiro,130
+15/06/2022 08:26:41,Silvana Furtado,7,44714,Francisco Xavier da Silva Neto,Stone Visa Crédito,360
+16/06/2022 09:13:17,Eline Silva,75,44727,Francisco Xavier da Silva Neto,Dinheiro,70
+16/06/2022 09:13:51,Lucielho Reinaldo,74,44727,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+16/06/2022 09:14:18,Alef Augusto Alves de Almeida,73,44727,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+16/06/2022 09:14:53,Jessica Lima,71,44727,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+16/06/2022 09:15:50,Edjane Souza,69,44727,Francisco Xavier da Silva Neto,PIX,140
+16/06/2022 09:19:17,Romerio de Sousa,70,44727,Francisco Xavier da Silva Neto,Stone Master Card Débito,140
+16/06/2022 09:27:06,Ingrid Samara,72,44727,Francisco Xavier da Silva Neto,Stone Visa Crédito,120
+16/06/2022 09:28:54,Ivanira Maria,77,44728,Francisco Xavier da Silva Neto,Stone Master Card Crédito,360
+16/06/2022 09:29:24,Barbara Sabrina,78,44728,Francisco Xavier da Silva Neto,Stone Visa Débito,450
+16/06/2022 09:29:53,Allene Moura,76,44728,Francisco Xavier da Silva Neto,Stone Master Card Crédito,260
+16/06/2022 09:31:09,Ana Lucia,79,44728,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+17/06/2022 07:43:38,Lauren Diniz,80,44728,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+17/06/2022 07:45:47,Izadora Reis,55,44726,Francisco Xavier da Silva Neto,Stone Visa Crédito,220
+18/06/2022 11:05:56,Irismar Silva,83,44729,Francisco Xavier da Silva Neto,Dinheiro,60
+18/06/2022 11:06:33,Elisa Faria,82,44729,Francisco Xavier da Silva Neto,PIX,130
+18/06/2022 11:07:16,Caio Cesar,81,44729,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+18/06/2022 11:08:10,Sueli Maria,85,44729,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+18/06/2022 11:15:10,Yam Lima,86,44729,Francisco Xavier da Silva Neto,Stone Master Card Crédito,330
+18/06/2022 11:30:28,Mônica Suely,95,44730,Francisco Xavier da Silva Neto,Stone Visa Crédito,200
+18/06/2022 11:31:34,Veneranda Maria,94,44730,Francisco Xavier da Silva Neto,Stone Master Card Crédito,175
+18/06/2022 11:33:40,Francilena Clemente,96,44730,Francisco Xavier da Silva Neto,Stone Visa Débito,110
+18/06/2022 11:35:00,Viviane Soares,97,44730,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+18/06/2022 11:35:35,Ranna,84,44729,Francisco Xavier da Silva Neto,Stone Master Card Crédito,85
+18/06/2022 11:39:47,Marta maria,87,44730,Francisco Xavier da Silva Neto,Dinheiro,60
+18/06/2022 11:40:20,Fernando Alberto,88,44730,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+18/06/2022 11:40:48,Cleomar Dias,90,44730,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+18/06/2022 11:41:14,Alberto Jose,91,44730,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+18/06/2022 11:41:49,Adriana,93,44730,Francisco Xavier da Silva Neto,Stone Visa Crédito,160
+21/06/2022 07:52:46,Erivan Rodrigues,98,44732,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+21/06/2022 07:53:55,Gabriela dos Santos,101,44732,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+21/06/2022 07:54:43,Maria Madalena,106,44733,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+21/06/2022 07:55:15,Samela Araujo,102,44732,Francisco Xavier da Silva Neto,PIX,70
+21/06/2022 07:59:35,Adaltiva Veríssimo,107,44733,Francisco Xavier da Silva Neto,PIX,1300
+21/06/2022 16:25:20,Késia,103,44732,Francisco Xavier da Silva Neto,Stone Master Card Débito,160
+21/06/2022 16:25:45,Moacir,105,44732,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+21/06/2022 16:26:08,Ivone Farias,104,44732,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+21/06/2022 16:26:36,Adriana,100,44732,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+21/06/2022 16:28:29,Karla,99,44732,Francisco Xavier da Silva Neto,Dinheiro,70
+22/06/2022 08:04:26,Ane Acioli,114,44733,Francisco Xavier da Silva Neto,Dinheiro,210
+22/06/2022 08:05:19,Cibele Abbott,111,44733,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+22/06/2022 08:08:54,Jussara Maria,116,44734,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+22/06/2022 08:09:55,Kauniemily,112,44733,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+22/06/2022 08:10:52,Caio Cesar,117,44734,Francisco Xavier da Silva Neto,Stone Visa Crédito,330
+22/06/2022 08:11:48,Carla Dayse,113,44733,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,70
+22/06/2022 08:25:59,Edivania,115,44733,Francisco Xavier da Silva Neto,Dinheiro,60
+22/06/2022 08:25:59,Edivania,118,44734,Francisco Xavier da Silva Neto,Dinheiro,100
+22/06/2022 08:25:47,Sales Cabral,110,44733,Francisco Xavier da Silva Neto,Dinheiro,60
+22/06/2022 08:26:26,Welington Pereira,109,44733,Francisco Xavier da Silva Neto,Dinheiro,70
+22/06/2022 08:33:04,Zelandia Maria,119,44734,Francisco Xavier da Silva Neto,Stone Master Card Crédito,100
+22/06/2022 08:33:56,Francisco Emanoel,108,44733,Francisco Xavier da Silva Neto,Dinheiro,140
+27/06/2022 14:39:59,Katia Solange,125,44735,Francisco Xavier da Silva Neto,Dinheiro,80
+27/06/2022 14:40:30,Edimar Medeiros Dantas,127,44735,Francisco Xavier da Silva Neto,Stone Visa Débito,140
+27/06/2022 14:41:29,Andrea Maria,128,44735,Francisco Xavier da Silva Neto,Stone Visa Crédito,110
+27/06/2022 14:43:17,Renata Lima,139,44739,Francisco Xavier da Silva Neto,Dinheiro,70
+27/06/2022 14:44:01,Raphael Cordeiro,126,44735,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+27/06/2022 14:47:37,Vitor,129,44735,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+27/06/2022 14:48:34,Erivan Rodrigues,130,44736,Francisco Xavier da Silva Neto,Dinheiro,60
+27/06/2022 14:49:49,Alexander de Almeida,131,44736,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+27/06/2022 14:50:19,Lidiane Barbosa,134,44736,Francisco Xavier da Silva Neto,Stone Visa Débito,160
+28/06/2022 07:37:43,Jessica Correia,138,44739,Francisco Xavier da Silva Neto,Stone Master Card Crédito,380
+28/06/2022 07:38:22,Mônica Linhares,142,44739,Francisco Xavier da Silva Neto,Stone Visa Débito,160
+28/06/2022 07:39:12,Paulo Roberto,143,44739,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+28/06/2022 08:58:14,Micarla da Silva,136,44739,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+28/06/2022 08:58:54,Crisalida Medeiros,137,44739,Francisco Xavier da Silva Neto,PIX,70
+28/06/2022 08:59:31,Sonia Maria,140,44739,Francisco Xavier da Silva Neto,Dinheiro,50
+28/06/2022 08:59:49,Sonia Maria,140,44739,Francisco Xavier da Silva Neto,Stone Master Card Crédito,20
+28/06/2022 09:00:17,Assis Rego,135,44739,Francisco Xavier da Silva Neto,Stone Visa Crédito,130
+28/06/2022 09:01:50,Maria do Socorro,141,44739,Francisco Xavier da Silva Neto,Stone Master Card Crédito,50
+28/06/2022 09:02:08,Maria do Socorro,141,44739,Francisco Xavier da Silva Neto,Dinheiro,20
+28/06/2022 09:17:57,Dhimas,132,44736,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+28/06/2022 09:18:28,Roberto Gaucho,133,44736,Francisco Xavier da Silva Neto,Stone Visa Débito,350
+28/06/2022 09:42:16,Zelandia Maria,123,44734,Francisco Xavier da Silva Neto,Stone Visa Débito,100
+28/06/2022 09:44:42,Edivania,122,44734,Francisco Xavier da Silva Neto,Stone Master Card Crédito,160
+28/06/2022 09:46:43,Eliene Chaves,121,44734,Francisco Xavier da Silva Neto,Dinheiro,220
+28/06/2022 09:47:06,Samia Feijo,120,44734,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+28/06/2022 09:47:28,Cícero Odílio,124,44734,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+29/06/2022 09:30:13,Jessica Correia,146,44741,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+29/06/2022 09:30:48,Cristiane Ferreira,147,44741,Francisco Xavier da Silva Neto,Stone Elo Débito,220
+29/06/2022 09:31:14,José Guedes,144,44740,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+29/06/2022 09:31:35,Thaisa Araújo,148,44741,Francisco Xavier da Silva Neto,PIX,60
+29/06/2022 09:32:32,Adriano,145,44740,Francisco Xavier da Silva Neto,Stone Elo Débito,20
+29/06/2022 09:32:43,Adriano,145,44740,Francisco Xavier da Silva Neto,Dinheiro,170
+30/06/2022 08:50:17,Elson Germano,149,44741,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+30/06/2022 08:51:59,Edileuza,150,44741,Francisco Xavier da Silva Neto,Dinheiro,1610
+30/06/2022 08:57:49,Janaina Gurgel,156,44742,Francisco Xavier da Silva Neto,Stone Elo Crédito,180
+30/06/2022 08:58:08,Dayane Tamara,154,44742,Francisco Xavier da Silva Neto,PIX,140
+30/06/2022 08:58:29,Maristela Duarte,155,44742,Francisco Xavier da Silva Neto,Stone Master Card Crédito,250
+30/06/2022 08:59:09,Monica Mendes Lopes,152,44741,Francisco Xavier da Silva Neto,Dinheiro,140
+01/07/2022 08:22:29,Gabriela Medeiros,164,44742,Francisco Xavier da Silva Neto,Stone Visa Crédito,259
+01/07/2022 08:22:59,Marcos Juscier,157,44742,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+01/07/2022 08:23:36,Josefa Emiliano,159,44742,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+01/07/2022 08:23:58,Juliana Almeida,161,44742,Francisco Xavier da Silva Neto,PIX,70
+01/07/2022 08:24:31,Larissa Simões do Nascimento,158,44742,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+01/07/2022 08:56:49,Felipe Martins,162,44742,Francisco Xavier da Silva Neto,PIX,140
+01/07/2022 08:57:10,Alice,160,44742,Francisco Xavier da Silva Neto,PIX,70
+01/07/2022 08:57:57,Rainerio,163,44742,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+01/07/2022 08:58:14,Daniel,165,44742,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+02/07/2022 07:54:25,José Guedes,166,44743,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+02/07/2022 07:54:49,Carmen Lucia,167,44743,Francisco Xavier da Silva Neto,Dinheiro,70
+02/07/2022 07:55:14,MARIANA PAIVA,168,44743,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+02/07/2022 07:55:46,Maria Madalena,169,44743,Francisco Xavier da Silva Neto,Stone Visa Crédito,150
+02/07/2022 07:56:12,Silvania Nascimento,170,44743,Francisco Xavier da Silva Neto,PIX,80
+02/07/2022 07:57:32,larissa Morreeiro,171,44743,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+02/07/2022 07:57:48,Suzana Yoshikawa,172,44743,Francisco Xavier da Silva Neto,Dinheiro,220
+04/07/2022 11:01:09,Flavia Bruna,182,44744,Francisco Xavier da Silva Neto,Stone Elo Débito,140
+04/07/2022 11:01:35,Luciano,181,44744,Francisco Xavier da Silva Neto,Stone Master Card Débito,175
+04/07/2022 11:02:01,Milena Nogueira,180,44744,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+04/07/2022 11:02:28,Edna Maria de Souza,179,44744,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+04/07/2022 11:02:58,Jeane Nobre,178,44744,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+04/07/2022 11:03:21,Adilson Neri,177,44744,Francisco Xavier da Silva Neto,Stone Visa Débito,90
+04/07/2022 11:03:44,LEILA CRISTINA,176,44744,Francisco Xavier da Silva Neto,PIX,130
+04/07/2022 11:04:12,Luciana Nunes,175,44744,Francisco Xavier da Silva Neto,Stone Master Card Crédito,160
+04/07/2022 11:04:40,Brunno Ralph,173,44744,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+04/07/2022 11:05:04,Humberto Carvalho,174,44744,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+04/07/2022 16:51:34,Williandro Sales,186,44746,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+04/07/2022 16:51:59,Wildson Alves,191,44746,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+04/07/2022 16:52:26,Veneranda Maria,189,44746,Francisco Xavier da Silva Neto,Stone Master Card Crédito,570
+04/07/2022 16:52:58,Marisa Gomes,184,44746,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,250
+04/07/2022 16:53:20,Maria Paula,185,44746,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+04/07/2022 16:53:50,Ana Clara,187,44746,Francisco Xavier da Silva Neto,PIX,330
+04/07/2022 16:54:15,Dayane Tamara,188,44746,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+04/07/2022 16:54:34,Thiago Henrrique,192,44746,Francisco Xavier da Silva Neto,Dinheiro,60
+04/07/2022 16:55:03,Claudomiro,190,44746,Francisco Xavier da Silva Neto,PIX,60
+06/07/2022 08:02:38,Luiz Bezerra,195,44747,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+06/07/2022 08:03:14,Fabiana Aguiar,199,44747,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+06/07/2022 08:03:51,Rafael Labio,200,44747,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+06/07/2022 08:05:35,Marisa Gomes,201,44748,Francisco Xavier da Silva Neto,Stone Elo Débito,360
+11/07/2022 17:03:13,,247,44753,Francisco Xavier da Silva Neto,PIX,70
+11/07/2022 17:04:01,,248,44753,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+11/07/2022 17:05:44,Diego Siqueira,249,44753,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+11/07/2022 17:06:51,Alessandro Alves,250,44753,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+11/07/2022 17:08:38,Júnior,239,44753,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+11/07/2022 17:09:39,,251,44753,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+11/07/2022 17:10:11,Krislla,198,44747,Francisco Xavier da Silva Neto,Dinheiro,30
+11/07/2022 17:10:25,Krislla,198,44747,Francisco Xavier da Silva Neto,Stone Visa Crédito,30
+11/07/2022 17:11:50,Eline Silva,203,44748,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+11/07/2022 17:12:21,Paula Zaluski,206,44748,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+11/07/2022 17:12:44,Franciilda Gomes,205,44748,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+11/07/2022 17:13:20,Karla Silva,204,44748,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+11/07/2022 17:14:00,Maria Clara,208,44748,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+11/07/2022 17:15:18,Fernanda Menezes,252,44753,Francisco Xavier da Silva Neto,Dinheiro,80
+11/07/2022 17:15:43,Edna Maria de Oliveira,202,44748,Francisco Xavier da Silva Neto,Dinheiro,80
+11/07/2022 17:16:38,Nancy de Padua,218,44749,Francisco Xavier da Silva Neto,Stone Elo Crédito,70
+11/07/2022 17:17:19,Lais Regina,221,44749,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+11/07/2022 17:17:41,Lauren Diniz,219,44749,Francisco Xavier da Silva Neto,Dinheiro,70
+11/07/2022 17:18:03,Marina lima,217,44749,Francisco Xavier da Silva Neto,Stone Visa Débito,80
+11/07/2022 17:18:44,Anderson Moraes,220,44749,Francisco Xavier da Silva Neto,PIX,70
+11/07/2022 17:20:13,Cleane Gomes da Silva,210,44749,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+11/07/2022 17:21:09,Ana Cláudia,214,44749,Francisco Xavier da Silva Neto,Stone Master Card Crédito,298
+11/07/2022 17:21:42,Francisco Macena,222,44749,Francisco Xavier da Silva Neto,Stone Visa Débito,130
+11/07/2022 17:22:28,Jessica Lima,213,44749,Francisco Xavier da Silva Neto,Stone Master Card Crédito,175
+11/07/2022 17:23:00,Laise Mayara,211,44749,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+11/07/2022 17:23:17,Ester Mereciano,209,44749,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+11/07/2022 17:25:04,Emanoel Alisson,253,44753,Francisco Xavier da Silva Neto,Stone Master Card Crédito,330
+11/07/2022 17:25:31,Itajaci Barbosa,225,44750,Francisco Xavier da Silva Neto,Stone Master Card Crédito,175
+11/07/2022 17:26:58,Carolina Villar,254,44753,Francisco Xavier da Silva Neto,Stone Visa Crédito,290
+11/07/2022 17:27:22,Maria Luiza,226,44750,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+11/07/2022 17:28:01,Julio Cesar,223,44750,Francisco Xavier da Silva Neto,Dinheiro,70
+12/07/2022 08:53:28,Gabriela Ferreira,227,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+12/07/2022 08:53:50,Andrea Amaral,228,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,240
+12/07/2022 08:54:07,Ronaldo Barbosa,229,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/07/2022 08:54:23,Magdiel Angelo,230,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+12/07/2022 08:54:43,Carlos Emanoel,232,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,90
+12/07/2022 08:55:02,Ovioni Rodrigues,234,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/07/2022 08:56:06,Micaele Caroline,255,44754,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+12/07/2022 08:56:29,Elaine de Souza,233,44751,Francisco Xavier da Silva Neto,Stone Master Card Crédito,160
+12/07/2022 08:59:16,,256,44754,Francisco Xavier da Silva Neto,Dinheiro,70
+12/07/2022 09:00:49,,257,44754,Francisco Xavier da Silva Neto,Stone Master Card Débito,130
+12/07/2022 09:03:14,,258,44754,Francisco Xavier da Silva Neto,PIX,280
+12/07/2022 09:03:51,,259,44754,Francisco Xavier da Silva Neto,Dinheiro,220
+12/07/2022 09:05:51,Joana Nunes,246,44753,Francisco Xavier da Silva Neto,Dinheiro,120
+12/07/2022 09:06:30,Lucielho Reinaldo,245,44753,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+12/07/2022 09:06:46,Gabriela dos Santos,244,44753,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/07/2022 09:07:09,Leidecleide Bezerra,238,44753,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+12/07/2022 09:07:30,Karla,237,44753,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+12/07/2022 09:08:24,Lenilza Lopes de Lima,242,44753,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/07/2022 09:08:45,Tatiane,243,44753,Francisco Xavier da Silva Neto,Stone Master Card Crédito,335
+12/07/2022 14:03:06,Laniere Lucindo,231,44751,Francisco Xavier da Silva Neto,PIX,70
+13/07/2022 08:10:29,Thaise Dantas,263,44754,Francisco Xavier da Silva Neto,Dinheiro,70
+13/07/2022 08:11:10,Ane Acioli,264,44754,Francisco Xavier da Silva Neto,PIX,76
+13/07/2022 08:11:24,Ane Acioli,264,44754,Francisco Xavier da Silva Neto,Stone Master Card Crédito,64
+13/07/2022 08:12:19,Ana Agra Borborema,260,44754,Francisco Xavier da Silva Neto,Stone Visa Crédito,90
+13/07/2022 08:20:49,Edivania,261,44754,Francisco Xavier da Silva Neto,Dinheiro,70
+13/07/2022 08:22:18,,265,44755,Francisco Xavier da Silva Neto,Dinheiro,350
+13/07/2022 08:40:16,Marinete Oliveira,262,44754,Francisco Xavier da Silva Neto,Stone Elo Débito,220
+14/07/2022 08:13:09,Suzana,269,44755,Francisco Xavier da Silva Neto,Dinheiro,30
+14/07/2022 08:13:24,Suzana,269,44755,Francisco Xavier da Silva Neto,Stone Elo Débito,50
+14/07/2022 08:13:54,Erica Joyce,270,44755,Francisco Xavier da Silva Neto,PIX,265
+14/07/2022 08:14:55,,272,44756,Francisco Xavier da Silva Neto,Dinheiro,60
+14/07/2022 08:32:16,Welington Pereira,266,44755,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+14/07/2022 08:32:45,Fernando Amorim,268,44755,Francisco Xavier da Silva Neto,Stone Master Card Débito,40
+14/07/2022 08:33:05,Adriana,267,44755,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+18/07/2022 08:22:47,Claudineide,275,44756,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+18/07/2022 08:24:29,Dayvson Silva Ramos,274,44756,Francisco Xavier da Silva Neto,Dinheiro,70
+18/07/2022 08:24:50,Niene Alvares,273,44756,Francisco Xavier da Silva Neto,Stone Master Card Crédito,410
+18/07/2022 08:29:43,Cláudio Simões,281,44757,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+18/07/2022 08:30:35,Bruna Elisa,280,44757,Francisco Xavier da Silva Neto,Stone Master Card Débito,350
+18/07/2022 08:33:33,Juliana Almeida,292,44760,Francisco Xavier da Silva Neto,Stone Visa Débito,60
+18/07/2022 08:34:08,Daniela Pessoa,278,44757,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+18/07/2022 08:36:14,Nelsom,279,44757,Francisco Xavier da Silva Neto,Stone Master Card Crédito,300
+18/07/2022 08:36:23,Nelsom,279,44757,Francisco Xavier da Silva Neto,Dinheiro,50
+18/07/2022 08:39:41,João Gabriel,289,44758,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+18/07/2022 08:40:07,Bárbara Gines,291,44758,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+19/07/2022 10:37:46,Luzia Bernadino,293,44760,Francisco Xavier da Silva Neto,Dinheiro,140
+19/07/2022 10:38:25,Crisalida Medeiros,295,44760,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+19/07/2022 10:38:45,Francisco de Assis,300,44760,Francisco Xavier da Silva Neto,Dinheiro,70
+19/07/2022 10:39:16,Assis Rego,294,44760,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+19/07/2022 10:40:21,Fernanda ,304,44761,Francisco Xavier da Silva Neto,Stone Visa Débito,220
+19/07/2022 10:44:18,Henderson Santos,305,44761,Francisco Xavier da Silva Neto,Stone Elo Crédito,3000
+19/07/2022 10:45:08,Maria Paula,296,44760,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+19/07/2022 10:45:35,Jackeline Bezerra,298,44760,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+19/07/2022 10:46:52,Peter Pereira,297,44760,Francisco Xavier da Silva Neto,Dinheiro,190
+19/07/2022 10:47:35,Vitor,299,44760,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+19/07/2022 10:48:21,Fátima dantas,301,44760,Francisco Xavier da Silva Neto,Stone Visa Débito,140
+19/07/2022 10:49:56,Ana Paulo Ramalho,285,44758,Francisco Xavier da Silva Neto,Stone Visa Crédito,150
+19/07/2022 10:50:33,Edmara Carvalho,284,44758,Francisco Xavier da Silva Neto,Dinheiro,100
+19/07/2022 10:51:09,Cleomar Dias,283,44758,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+19/07/2022 10:51:35,Allan Kardec,282,44758,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+19/07/2022 10:52:02,Andrea Maria,287,44758,Francisco Xavier da Silva Neto,Stone Visa Crédito,130
+19/07/2022 10:53:13,Isac Souza,306,44761,Francisco Xavier da Silva Neto,PIX,80
+19/07/2022 10:54:31,TANIA MARA DE SOUZA,286,44758,Francisco Xavier da Silva Neto,PIX,70
+19/07/2022 10:54:52,Renata Costa,290,44758,Francisco Xavier da Silva Neto,PIX,70
+19/07/2022 16:26:10,Lindalva de Sousa,302,44761,Francisco Xavier da Silva Neto,Dinheiro,140
+19/07/2022 17:17:56,Jacilda Rocha,303,44761,Francisco Xavier da Silva Neto,Stone Master Card Débito,130
+19/07/2022 17:18:39,vanessa,308,44761,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+19/07/2022 17:19:09,Welington,309,44761,Francisco Xavier da Silva Neto,Stone Visa Débito,150
+20/07/2022 17:22:37,Bartholomew Josehph,316,44762,Francisco Xavier da Silva Neto,Stone Visa Crédito,1010
+20/07/2022 17:23:22,Fernanda Menezes,311,44762,Francisco Xavier da Silva Neto,Stone Master Card Crédito,250
+20/07/2022 17:23:55,Valeria Pessoa,313,44762,Francisco Xavier da Silva Neto,Stone Master Card Crédito,90
+20/07/2022 17:24:35,Julia,310,44762,Francisco Xavier da Silva Neto,PIX,200
+20/07/2022 17:25:53,Allene Moura,317,44762,Francisco Xavier da Silva Neto,Stone Master Card Crédito,190
+20/07/2022 17:26:21,Isy Dayane,314,44762,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+20/07/2022 17:27:07,Rita de Cassia,312,44762,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+20/07/2022 17:27:26,Monica Mendes Lopes,315,44762,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+21/07/2022 17:18:10,Vivian Botelho,318,44763,Francisco Xavier da Silva Neto,Stone Visa Débito,170
+21/07/2022 17:18:35,Rosana,320,44763,Francisco Xavier da Silva Neto,Dinheiro,70
+21/07/2022 17:19:21,Luiz,321,44763,Francisco Xavier da Silva Neto,Stone Visa Crédito,130
+21/07/2022 17:20:25,Veridiana Silva Dionizio Freire,323,44763,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+21/07/2022 17:22:38,Veronica Gurgel,324,44763,Francisco Xavier da Silva Neto,Dinheiro,80
+21/07/2022 17:23:09,Veronica Gurgel,324,44763,Francisco Xavier da Silva Neto,Dinheiro,10
+21/07/2022 17:23:25,Veronica Gurgel,324,44763,Francisco Xavier da Silva Neto,Stone Master Card Débito,40
+21/07/2022 17:23:45,Larissa Simões do Nascimento,325,44763,Francisco Xavier da Silva Neto,Dinheiro,70
+21/07/2022 17:25:48,Cacilda Maria,322,44763,Francisco Xavier da Silva Neto,Stone Elo Crédito,470
+23/07/2022 09:15:14,Luana Oliveira,332,44764,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+23/07/2022 09:15:47,Beatriz Matias de Souza,333,44764,Francisco Xavier da Silva Neto,Stone Visa Débito,140
+23/07/2022 09:16:27,Julia Cahú,331,44764,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+23/07/2022 09:24:24,Patricia Cardoso,334,44765,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+23/07/2022 09:25:24,Josefa Emiliano,326,44764,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+23/07/2022 09:26:29,Lyanna Bezerra,335,44765,Francisco Xavier da Silva Neto,PIX,250
+23/07/2022 09:27:47,Thalissa Valeria Martini de Jesus,327,44764,Francisco Xavier da Silva Neto,Dinheiro,130
+23/07/2022 09:28:21,William,330,44764,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+23/07/2022 12:16:42,Lauren Diniz,336,44765,Francisco Xavier da Silva Neto,Stone Elo Crédito,60
+23/07/2022 12:17:44,Cynara Grilo,337,44765,Francisco Xavier da Silva Neto,Stone Visa Crédito,180
+23/07/2022 12:18:05,Edna Maria de Souza,338,44765,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+26/07/2022 09:04:32,Luciana Barreto,345,44768,Francisco Xavier da Silva Neto,Stone Master Card Crédito,370
+26/07/2022 09:05:16,Cynara Grilo,346,44768,Francisco Xavier da Silva Neto,Stone Visa Crédito,220
+26/07/2022 09:05:49,Carmen Lucia,342,44767,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,70
+26/07/2022 09:09:08,Lucielho Reinaldo,340,44767,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+26/07/2022 09:13:25,Katia Cristina,341,44767,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,100
+26/07/2022 09:14:02,Monika Kim,347,44768,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+26/07/2022 09:15:08,Roberto,339,44767,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+26/07/2022 09:15:30,Nicolas,343,44767,Francisco Xavier da Silva Neto,Stone Elo Crédito,230
+26/07/2022 09:34:15,Francisca Alves de Sousa,348,44768,Francisco Xavier da Silva Neto,Stone Visa Crédito,160
+26/07/2022 17:13:14,Vitoria Saldanha,344,44768,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+26/07/2022 17:14:03,Alana Stefanny,352,44768,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+26/07/2022 17:14:29,Alana Stefanny,352,44768,Francisco Xavier da Silva Neto,Dinheiro,220
+26/07/2022 17:15:30,Bruno Moura,351,44768,Francisco Xavier da Silva Neto,Stone Master Card Crédito,175
+26/07/2022 17:16:02,José Guedes,350,44768,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+26/07/2022 17:16:26,Katia Cristina,349,44768,Francisco Xavier da Silva Neto,Stone Visa Crédito,370
+28/07/2022 08:12:58,Valéria Araujo,354,44768,Francisco Xavier da Silva Neto,Stone Visa Débito,220
+28/07/2022 08:13:22,João Luiz,355,44768,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+28/07/2022 08:14:27,Janaina Gurgel,361,44770,Francisco Xavier da Silva Neto,Stone Master Card Crédito,40
+28/07/2022 08:15:00,Elmir Ferreira de Paiva,358,44769,Francisco Xavier da Silva Neto,Stone Visa Crédito,350
+28/07/2022 08:17:31,Alana Stefanny,362,44770,Francisco Xavier da Silva Neto,Stone Visa Crédito,1410
+28/07/2022 08:18:34,Adriana Barros,363,44770,Francisco Xavier da Silva Neto,Stone Visa Débito,220
+28/07/2022 08:21:37,Anderson Moraes,360,44770,Francisco Xavier da Silva Neto,Dinheiro,70
+28/07/2022 17:33:25,Thiago Felipe,365,44770,Francisco Xavier da Silva Neto,Stone Elo Débito,140
+28/07/2022 17:33:47,João Matheus,366,44770,Francisco Xavier da Silva Neto,Stone Master Card Crédito,190
+30/07/2022 08:31:59,Gilcleton Brandão,367,44771,Francisco Xavier da Silva Neto,Stone Master Card Crédito,240
+30/07/2022 09:33:15,Perolina Damascena,375,44772,Francisco Xavier da Silva Neto,Stone Master Card Crédito,300
+30/07/2022 09:33:47,Ayanne Sousa,368,44771,Francisco Xavier da Silva Neto,Stone Master Card Débito,140
+30/07/2022 09:34:20,Raimundo Silva,369,44771,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+30/07/2022 09:36:06,Tatiana Neri,370,44771,Francisco Xavier da Silva Neto,Stone Elo Crédito,120
+30/07/2022 09:37:55,Maria Cristina,377,44772,Francisco Xavier da Silva Neto,Stone Visa Crédito,220
+30/07/2022 09:38:40,Karol Cortez,378,44772,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+30/07/2022 09:40:04,Mayara Costa,379,44772,Francisco Xavier da Silva Neto,PIX,80
+30/07/2022 09:40:52,Lais Regina,372,44771,Francisco Xavier da Silva Neto,Dinheiro,140
+30/07/2022 09:41:45,Lindalva de Sousa,380,44772,Francisco Xavier da Silva Neto,Dinheiro,220
+01/08/2022 11:11:06,George Sabino,387,44772,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+01/08/2022 11:11:34,Thayse Melo,386,44772,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+01/08/2022 11:11:56,Ronaldo Barbosa,384,44772,Francisco Xavier da Silva Neto,Dinheiro,70
+01/08/2022 11:12:20,Ester Mereciano,383,44772,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+01/08/2022 11:12:42,Elaine de Souza,382,44772,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+01/08/2022 11:13:09,Carlos Emanoel,381,44772,Francisco Xavier da Silva Neto,Stone Master Card Crédito,90
+01/08/2022 11:13:36,Caio Cesar,374,44772,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+01/08/2022 11:13:58,Uilliane Rodrigues,376,44772,Francisco Xavier da Silva Neto,Stone Master Card Crédito,320
+01/08/2022 11:14:58,Gabriella Dantas Araujo,385,44772,Francisco Xavier da Silva Neto,PIX,160
+02/08/2022 07:41:17,Tatiane,392,44774,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+02/08/2022 07:41:41,Larissa Fernanda,389,44774,Francisco Xavier da Silva Neto,Stone Visa Débito,80
+02/08/2022 07:42:36,Ovioni Rodrigues,393,44775,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+02/08/2022 07:42:55,Erismar Pereira,388,44774,Francisco Xavier da Silva Neto,PIX,140
+02/08/2022 07:43:52,José Fernandes de Lima,390,44774,Francisco Xavier da Silva Neto,Stone Visa Crédito,250
+02/08/2022 07:44:14,Nelsom,391,44774,Francisco Xavier da Silva Neto,Stone Visa Débito,130
+02/08/2022 18:50:01,Larissa Fernanda,401,44775,Francisco Xavier da Silva Neto,Stone Visa Crédito,220
+02/08/2022 18:51:08,Maria Clara,399,44775,Francisco Xavier da Silva Neto,PIX,70
+02/08/2022 18:54:24,Larissa Gomes de Lima Branco,403,44775,Francisco Xavier da Silva Neto,Dinheiro,220
+02/08/2022 18:54:49,Micaele Caroline,398,44775,Francisco Xavier da Silva Neto,Dinheiro,70
+02/08/2022 18:55:25,Mônica Suely,394,44775,Francisco Xavier da Silva Neto,Stone Visa Crédito,415
+02/08/2022 18:56:16,Laercio Pereira,404,44775,Francisco Xavier da Silva Neto,Stone Elo Débito,80
+02/08/2022 18:57:42,Jussara Lídia,400,44775,Francisco Xavier da Silva Neto,Stone Elo Débito,150
+02/08/2022 18:57:59,Jussara Lídia,400,44775,Francisco Xavier da Silva Neto,Stone Master Card Crédito,150
+02/08/2022 18:58:39,Saulo,395,44775,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+03/08/2022 16:31:55,Itajaci Barbosa,410,44776,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+03/08/2022 16:32:23,Veridiana Silva Dionizio Freire,408,44776,Francisco Xavier da Silva Neto,Stone Visa Crédito,450
+03/08/2022 16:34:20,Veneranda Maria,409,44776,Francisco Xavier da Silva Neto,Stone Master Card Crédito,620
+03/08/2022 16:34:51,Veronica Gurgel,406,44776,Francisco Xavier da Silva Neto,Dinheiro,80
+03/08/2022 16:35:00,Veronica Gurgel,406,44776,Francisco Xavier da Silva Neto,Stone Master Card Débito,50
+04/08/2022 17:05:14,Ayanne Sousa,416,44777,Francisco Xavier da Silva Neto,Stone Visa Crédito,220
+04/08/2022 17:06:41,Nicolis Cortez,417,44777,Francisco Xavier da Silva Neto,Stone Elo Débito,110
+04/08/2022 17:07:08,Dilma de Araujo Ferreira Matos,415,44777,Francisco Xavier da Silva Neto,Stone Master Card Crédito,1250
+04/08/2022 17:07:44,Juliana Engelmann,413,44777,Francisco Xavier da Silva Neto,Stone Visa Crédito,1910
+04/08/2022 17:08:28,Erineide Barbosa de Araujo,411,44777,Francisco Xavier da Silva Neto,Dinheiro,70
+05/08/2022 09:40:04,José Guedes,412,44777,Francisco Xavier da Silva Neto,Stone Master Card Crédito,160
+05/08/2022 17:13:47,Pedro,423,44778,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+05/08/2022 17:14:28,Luciana Barreto,422,44778,Francisco Xavier da Silva Neto,Stone Elo Débito,190
+05/08/2022 17:14:50,Daniela Pessoa,420,44778,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+05/08/2022 17:15:15,Dayane Tamara,419,44778,Francisco Xavier da Silva Neto,Dinheiro,70
+06/08/2022 09:41:10,Maria Clara,414,44777,Francisco Xavier da Silva Neto,PIX,80
+06/08/2022 12:26:16,Leonardo Ribeiro,429,44779,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+06/08/2022 12:27:09,Fábia Santos,430,44779,Francisco Xavier da Silva Neto,Stone Visa Crédito,305
+06/08/2022 12:27:33,Laniere Lucindo,431,44779,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+06/08/2022 12:27:56,Ane Acioli,427,44779,Francisco Xavier da Silva Neto,PIX,70
+06/08/2022 12:28:45,Thaise Dantas,428,44779,Francisco Xavier da Silva Neto,Dinheiro,57
+06/08/2022 12:28:58,Thaise Dantas,428,44779,Francisco Xavier da Silva Neto,Stone Master Card Débito,13
+06/08/2022 12:29:25,Lila Furtado,426,44779,Francisco Xavier da Silva Neto,Stone Master Card Crédito,500
+06/08/2022 12:29:46,Ellen Dayane Florêncio Ribeiro,425,44779,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+06/08/2022 12:30:06,Ivanir Lira,424,44779,Francisco Xavier da Silva Neto,Stone Master Card Crédito,295
+09/08/2022 08:49:10,Silvana Furtado,434,44781,Francisco Xavier da Silva Neto,Stone Master Card Débito,80
+09/08/2022 08:49:37,Luana Oliveira,438,44781,Francisco Xavier da Silva Neto,Stone Master Card Crédito,300
+09/08/2022 08:49:59,Alana Stefanny,435,44781,Francisco Xavier da Silva Neto,PIX,60
+09/08/2022 08:50:57,Franciilda Gomes,436,44781,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+09/08/2022 08:51:19,Thais Vidigal,432,44781,Francisco Xavier da Silva Neto,Stone Master Card Débito,140
+09/08/2022 16:45:44,Luana Oliveira,444,44782,Francisco Xavier da Silva Neto,Stone Master Card Crédito,20
+09/08/2022 16:46:08,Diego Brandão,443,44782,Francisco Xavier da Silva Neto,Stone Master Card Crédito,85
+09/08/2022 16:46:31,Solange Costa,442,44782,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+09/08/2022 16:47:00,Gabriel Lucas,441,44782,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+09/08/2022 16:47:48,Alan Miranda,440,44782,Francisco Xavier da Silva Neto,PIX,220
+09/08/2022 16:48:49,Uilliane Rodrigues,445,44782,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+09/08/2022 16:49:08,Josué Santos,439,44782,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+10/08/2022 15:33:07,Maria Josefa Estevam da Silva,396,44775,Francisco Xavier da Silva Neto,Stone Master Card Crédito,350
+10/08/2022 16:22:13,Maria Eduarda Lins Fernandes,450,44783,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+10/08/2022 16:23:10,Maria do Socorro,447,44783,Francisco Xavier da Silva Neto,Stone Master Card Crédito,1500
+10/08/2022 16:23:20,Maria do Socorro,447,44783,Francisco Xavier da Silva Neto,Dinheiro,60
+10/08/2022 16:23:45,Fabiene Andrianny,449,44783,Francisco Xavier da Silva Neto,PIX,70
+10/08/2022 16:24:18,Allene Moura,446,44783,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+10/08/2022 16:25:09,Adriana Messias,452,44783,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+11/08/2022 16:33:57,Jussara Angelica,458,44784,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+11/08/2022 16:34:27,Cacilda Maria,457,44784,Francisco Xavier da Silva Neto,Stone Elo Crédito,175
+11/08/2022 16:34:50,Larissa Simões do Nascimento,454,44784,Francisco Xavier da Silva Neto,Dinheiro,130
+11/08/2022 16:36:23,Laiane,459,44784,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+11/08/2022 16:36:53,Mailde Brasil Beltrão,453,44783,Francisco Xavier da Silva Neto,Stone Visa Crédito,420
+12/08/2022 12:00:29,Ana Cláudia,214,44749,Francisco Xavier da Silva Neto,Stone Master Card Crédito,395
+12/08/2022 12:01:16,Ana Cláudia,214,44749,Francisco Xavier da Silva Neto,PIX,47
+12/08/2022 17:00:35,Elson Germano,466,44785,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+12/08/2022 17:00:54,Jackeline Bezerra,465,44785,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/08/2022 17:01:11,Adilson Neri,464,44785,Francisco Xavier da Silva Neto,Stone Visa Débito,60
+12/08/2022 17:01:34,Adriana Dias,462,44785,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+12/08/2022 17:01:56,Julia Cahú,460,44785,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/08/2022 17:02:11,Maria Luiza,461,44785,Francisco Xavier da Silva Neto,Dinheiro,70
+12/08/2022 17:02:29,Thalissa Valeria Martini de Jesus,463,44785,Francisco Xavier da Silva Neto,Dinheiro,175
+13/08/2022 11:22:58,José Segundo,473,44786,Francisco Xavier da Silva Neto,Dinheiro,70
+13/08/2022 11:23:23,Luciana Nunes,472,44786,Francisco Xavier da Silva Neto,Stone Master Card Crédito,172
+13/08/2022 11:23:42,Ana Karoline,471,44786,Francisco Xavier da Silva Neto,Dinheiro,70
+13/08/2022 11:28:09,Thayna Lima,470,44786,Francisco Xavier da Silva Neto,Stone Visa Crédito,280
+13/08/2022 11:28:44,Lauren Diniz,468,44786,Francisco Xavier da Silva Neto,Stone Visa Crédito,160
+13/08/2022 11:29:19,Ivanira Maria,467,44786,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+15/08/2022 17:15:15,Marcos Juscier,475,44788,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+15/08/2022 17:15:55,Williandro Sales,477,44788,Francisco Xavier da Silva Neto,PIX,70
+15/08/2022 17:16:21,Lara Pereira,478,44788,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+15/08/2022 17:16:47,Josefa Emiliano,476,44788,Francisco Xavier da Silva Neto,Dinheiro,70
+15/08/2022 17:17:12,Yago Pablo,479,44788,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+15/08/2022 17:17:34,Jayanne Cristina,480,44788,Francisco Xavier da Silva Neto,Stone Master Card Crédito,110
+15/08/2022 17:18:01,Geiza Cristina,482,44788,Francisco Xavier da Silva Neto,PIX,220
+15/08/2022 17:18:29,Janaina Gurgel,481,44788,Francisco Xavier da Silva Neto,Stone Elo Crédito,1322
+15/08/2022 17:19:10,Alice,483,44788,Francisco Xavier da Silva Neto,PIX,70
+17/08/2022 08:51:37,Quercio John,491,44789,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+17/08/2022 08:52:04,Gizelda Torres,490,44789,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,175
+17/08/2022 08:52:29,Isy Dayane,487,44789,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+17/08/2022 08:52:54,Nedja Castro,486,44789,Francisco Xavier da Silva Neto,Stone Master Card Crédito,180
+17/08/2022 08:53:16,Francisca Pereira,485,44789,Francisco Xavier da Silva Neto,Stone Master Card Débito,260
+17/08/2022 08:53:34,Wenderson Clayson,484,44789,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,80
+18/08/2022 08:42:23,Francisca Pereira,497,44791,Francisco Xavier da Silva Neto,Stone Master Card Débito,220
+18/08/2022 08:43:57,paulo luis de oliveira silva,496,44790,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+18/08/2022 08:45:52,Karla Souza,498,44791,Francisco Xavier da Silva Neto,PIX,40
+18/08/2022 08:46:01,Karla Souza,498,44791,Francisco Xavier da Silva Neto,Dinheiro,100
+18/08/2022 08:47:03,breno,499,44791,Francisco Xavier da Silva Neto,PIX,120
+18/08/2022 08:47:32,Geiza Maria,494,44790,Francisco Xavier da Silva Neto,Stone Visa Crédito,90
+18/08/2022 08:47:55,Maria Eduarda Lins Fernandes,493,44790,Francisco Xavier da Silva Neto,Stone Visa Crédito,100
+18/08/2022 08:48:16,Janaina Gurgel,492,44790,Francisco Xavier da Silva Neto,Stone Master Card Crédito,280
+18/08/2022 17:11:28,Jeiel Lucas SANTOS,505,44791,Francisco Xavier da Silva Neto,Stone Master Card Débito,140
+18/08/2022 17:11:44,Hinderson Luan,504,44791,Francisco Xavier da Silva Neto,PIX,140
+18/08/2022 17:12:06,Anna Luiza,503,44791,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+18/08/2022 17:12:27,Guilhermina Soares,501,44791,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+18/08/2022 17:12:45,Maristela Duarte,500,44791,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+19/08/2022 17:10:59,Eduarda Ximenes,510,44792,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+19/08/2022 17:11:21,Karla Mattoso,509,44792,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+19/08/2022 17:11:44,Veridiana Silva Dionizio Freire,508,44792,Francisco Xavier da Silva Neto,Stone Visa Crédito,695
+19/08/2022 17:12:20,Iris Lacerda,506,44792,Francisco Xavier da Silva Neto,Dinheiro,160
+19/08/2022 17:12:44,Maria Joelma,507,44792,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+19/08/2022 17:13:42,Ana Clara,511,44792,Francisco Xavier da Silva Neto,Stone Visa Débito,200
+19/08/2022 17:15:17,Karla Souza,512,44792,Francisco Xavier da Silva Neto,Stone Master Card Débito,40
+24/08/2022 08:46:08,Ovioni Rodrigues,522,44796,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+24/08/2022 08:46:29,Helia Severiano,521,44796,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+24/08/2022 08:47:15,Maria Dilva,520,44796,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,80
+26/08/2022 08:52:48,Almir Alves,513,44793,Francisco Xavier da Silva Neto,Dinheiro,160
+26/08/2022 08:53:16,Paloma Rufino,514,44793,Francisco Xavier da Silva Neto,PIX,80
+26/08/2022 08:54:09,Helen Fernanda,532,44799,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+26/08/2022 08:56:07,Raimunda Vilma,533,44799,Francisco Xavier da Silva Neto,Dinheiro,80
+26/08/2022 08:57:00,Ana Clara,534,44799,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+26/08/2022 08:58:07,Rafael Vitor,535,44799,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+26/08/2022 08:58:56,Vera Matos,517,44795,Francisco Xavier da Silva Neto,Stone Visa Débito,1300
+26/08/2022 08:59:15,Jailson Moreira,516,44795,Francisco Xavier da Silva Neto,Stone Master Card Débito,80
+26/08/2022 09:00:21,Natalia Vasconselos,536,44799,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+26/08/2022 09:00:55,Maria Eduarda Lins Fernandes,515,44795,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+26/08/2022 09:35:15,Ronaldo Barbosa,528,44797,Francisco Xavier da Silva Neto,Dinheiro,70
+26/08/2022 09:39:27,Veneranda Maria,538,44799,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+26/08/2022 09:39:48,Itajaci Barbosa,523,44797,Francisco Xavier da Silva Neto,Stone Master Card Débito,70
+26/08/2022 09:40:08,Suerda Sousa,525,44797,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+26/08/2022 09:40:26,Lais Regina,530,44797,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+26/08/2022 09:42:52,Monica Cristina,529,44797,Francisco Xavier da Silva Neto,Stone Visa Crédito,80
+26/08/2022 09:44:22,Paula Flaviane dos Santos Silva,518,44795,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+26/08/2022 09:44:47,Nelsom,519,44795,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+26/08/2022 09:45:17,ISAIAS,526,44797,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+26/08/2022 09:45:44,Paula Flaviane dos Santos Silva,527,44797,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+27/08/2022 13:00:53,Roberto Weverton do Vale,552,44800,Francisco Xavier da Silva Neto,Stone Elo Crédito,1890
+27/08/2022 13:01:18,Leonardo Ribeiro,551,44800,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+27/08/2022 13:01:36,Grazielly Nunes,550,44800,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+27/08/2022 13:01:57,Ana Karoline,548,44800,Francisco Xavier da Silva Neto,Stone Visa Débito,60
+27/08/2022 13:02:21,Antonia Dayani,546,44800,Francisco Xavier da Silva Neto,PIX,300
+27/08/2022 13:02:42,Elayne Oliveira,543,44800,Francisco Xavier da Silva Neto,PIX,80
+27/08/2022 13:03:05,Adriana Pontes,545,44800,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+27/08/2022 13:03:27,Ivanir Lira,547,44800,Francisco Xavier da Silva Neto,Dinheiro,175
+27/08/2022 13:03:50,Ellen Dayane Florêncio Ribeiro,544,44800,Francisco Xavier da Silva Neto,Dinheiro,70
+30/08/2022 08:18:53,Monica Cristina,561,44802,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+30/08/2022 08:19:27,Franciilda Gomes,560,44802,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+31/08/2022 08:20:24,Rayane Daniele,567,44804,Francisco Xavier da Silva Neto,PIX,140
+31/08/2022 08:20:49,Maria José,555,44802,Francisco Xavier da Silva Neto,PIX,140
+31/08/2022 09:16:55,Manoel Aldemar,554,44802,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+31/08/2022 09:17:20,Erismar Pereira,553,44802,Francisco Xavier da Silva Neto,Stone Elo Débito,130
+31/08/2022 09:17:43,Rafaela Barbosa,556,44802,Francisco Xavier da Silva Neto,Dinheiro,140
+31/08/2022 09:18:19,Patricia Ferreira Rangel,557,44802,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+31/08/2022 09:19:03,Monica Cristina,569,44804,Francisco Xavier da Silva Neto,Stone Visa Crédito,60
+31/08/2022 09:20:23,Francisca Alves de Sousa,559,44802,Francisco Xavier da Silva Neto,Stone Visa Débito,140
+31/08/2022 09:20:52,Aliana Monteiro Leite,558,44802,Francisco Xavier da Silva Neto,Stone Master Card Débito,210
+31/08/2022 09:21:50,Patricia Ferreira Rangel,570,44804,Francisco Xavier da Silva Neto,Stone Visa Crédito,110
+31/08/2022 09:23:43,Paula Ferreira,571,44804,Francisco Xavier da Silva Neto,Dinheiro,70
+31/08/2022 09:24:49,Manoel Rodrigues,572,44804,Francisco Xavier da Silva Neto,Stone Master Card Crédito,175
+31/08/2022 09:25:10,Mirian de Souza,564,44803,Francisco Xavier da Silva Neto,Dinheiro,140
+31/08/2022 09:25:57,Maria das Graças,573,44804,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+31/08/2022 09:26:23,Wendel Macedo,566,44803,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+31/08/2022 09:27:54,Maria José,574,44804,Francisco Xavier da Silva Neto,Dinheiro,1150
+31/08/2022 09:28:34,Maria José,575,44804,Francisco Xavier da Silva Neto,Stone Visa Débito,220
+31/08/2022 09:29:06,Dhimas,565,44803,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+02/09/2022 08:11:33,Vinicius Nobrega,577,44804,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+02/09/2022 08:12:26,Mailde Brasil Beltrão,585,44806,Francisco Xavier da Silva Neto,Stone Master Card Crédito,180
+02/09/2022 08:14:00,Mônica Suely,586,44806,Francisco Xavier da Silva Neto,Stone Visa Crédito,220
+02/09/2022 08:14:33,Maria Cecilia Tavares,587,44806,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+02/09/2022 08:15:10,Flavia Toscano,568,44804,Francisco Xavier da Silva Neto,Stone Visa Débito,140
+02/09/2022 08:16:32,Jeane Nobre,588,44806,Francisco Xavier da Silva Neto,Stone Visa Crédito,200
+02/09/2022 08:18:10,Fernanda Gabriela,589,44806,Francisco Xavier da Silva Neto,Stone Master Card Crédito,590
+02/09/2022 08:18:59,Lila Furtado,590,44806,Francisco Xavier da Silva Neto,PIX,140
+02/09/2022 08:19:23,Roberto Camara,582,44805,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+02/09/2022 08:20:04,Allene Moura,584,44805,Francisco Xavier da Silva Neto,Dinheiro,70
+02/09/2022 08:20:23,Anderson Moraes,583,44805,Francisco Xavier da Silva Neto,Dinheiro,70
+02/09/2022 08:21:31,Veneranda Maria,591,44806,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+02/09/2022 08:21:59,Cacilda Maria,578,44805,Francisco Xavier da Silva Neto,Stone Elo Débito,175
+02/09/2022 08:22:38,Marize Barbosa,580,44805,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+02/09/2022 08:23:03,Mirtes de Brito,579,44805,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+05/09/2022 17:02:00,Rafael Costa,594,44806,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+05/09/2022 17:02:59,Wendel Macedo,612,44809,Francisco Xavier da Silva Neto,Stone Visa Débito,220
+05/09/2022 17:04:35,Aleksandra Alves,613,44809,Francisco Xavier da Silva Neto,Dinheiro,100
+05/09/2022 17:05:04,Julia Cahú,595,44807,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+05/09/2022 17:05:23,Thayna Lima,596,44807,Francisco Xavier da Silva Neto,Stone Visa Débito,90
+05/09/2022 17:05:48,Lauren Diniz,597,44807,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+05/09/2022 17:06:05,Magdiel Angelo,598,44807,Francisco Xavier da Silva Neto,Stone Master Card Crédito,170
+05/09/2022 17:06:26,José Segundo,599,44807,Francisco Xavier da Silva Neto,PIX,130
+05/09/2022 17:07:03,Thiago Carvalho,600,44807,Francisco Xavier da Silva Neto,Stone Visa Crédito,1800
+05/09/2022 17:18:51,Diego Brandão,611,44809,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+05/09/2022 17:19:16,Maria Eduarda Lins Fernandes,610,44809,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+05/09/2022 17:19:34,Maria Helena de Medeiros Rêgo,609,44809,Francisco Xavier da Silva Neto,Stone Visa Débito,110
+05/09/2022 17:19:56,Wendel Macedo,608,44809,Francisco Xavier da Silva Neto,Stone Visa Débito,220
+05/09/2022 17:20:45,Ana Lúcia,606,44809,Francisco Xavier da Silva Neto,Stone Visa Débito,130
+05/09/2022 17:21:08,Alexandre César,605,44809,Francisco Xavier da Silva Neto,Dinheiro,80
+05/09/2022 17:21:41,Marcos Juscier,602,44809,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+05/09/2022 17:21:57,Yago Pablo,604,44809,Francisco Xavier da Silva Neto,Dinheiro,70
+06/09/2022 08:39:08,Lila Furtado,614,44809,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+07/09/2022 09:23:59,Ricardo Dias,620,44810,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+07/09/2022 09:48:57,Maria Luiza,619,44810,Francisco Xavier da Silva Neto,Stone Elo Crédito,120
+07/09/2022 09:49:40,Roberto Silva,618,44810,Francisco Xavier da Silva Neto,Stone Visa Débito,140
+07/09/2022 09:50:06,Nancy de Padua,615,44810,Francisco Xavier da Silva Neto,Stone Elo Crédito,70
+07/09/2022 09:50:33,Maria do Socorro,621,44810,Francisco Xavier da Silva Neto,Dinheiro,140
+07/09/2022 09:51:21,Larissa Gomes de Lima Branco,617,44810,Francisco Xavier da Silva Neto,PIX,1850
+12/09/2022 08:58:30,Adriana Dias,628,44812,Francisco Xavier da Silva Neto,Stone Visa Crédito,70
+12/09/2022 09:00:26,Eredina Ferreira de Lima,641,44816,Francisco Xavier da Silva Neto,Stone Master Card Crédito,390
+12/09/2022 09:00:52,Laniere Lucindo,626,44812,Francisco Xavier da Silva Neto,PIX,70
+12/09/2022 09:01:12,Oliveira,625,44812,Francisco Xavier da Silva Neto,Stone Elo Débito,70
+12/09/2022 09:01:41,Janaina Gurgel,624,44812,Francisco Xavier da Silva Neto,Stone Elo Crédito,140
+12/09/2022 09:02:04,Camila Raquel,623,44812,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/09/2022 09:02:53,Maria Rodrigues dos Santos,627,44812,Francisco Xavier da Silva Neto,Stone Visa Débito,230
+12/09/2022 09:04:04,Maryelly Beatriz,635,44813,Francisco Xavier da Silva Neto,Stone Visa Crédito,330
+12/09/2022 09:05:08,Jeane Nobre,642,44816,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+12/09/2022 09:05:36,Diego Brandão,637,44813,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+12/09/2022 09:05:57,José Wilson,636,44813,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+12/09/2022 09:06:24,Alrea Lucia,633,44813,Francisco Xavier da Silva Neto,Stone Master Card Débito,80
+12/09/2022 09:07:04,Adriana Ruiz,634,44813,Francisco Xavier da Silva Neto,Stone Master Card Crédito,110
+12/09/2022 09:07:26,Elayne Oliveira,632,44813,Francisco Xavier da Silva Neto,Stone Master Card Crédito,120
+12/09/2022 09:07:47,Edilson Fonseca,631,44813,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+12/09/2022 09:08:50,Ana Clara Silva,643,44816,Francisco Xavier da Silva Neto,PIX,360
+12/09/2022 09:09:10,Leticia Furtado,630,44813,Francisco Xavier da Silva Neto,PIX,175
+12/09/2022 09:09:38,Josué Santos,640,44814,Francisco Xavier da Silva Neto,Dinheiro,70
+12/09/2022 09:10:27,Armando Luiz,644,44816,Francisco Xavier da Silva Neto,Stone Visa Débito,70
+12/09/2022 09:11:36,Antonia Dayani,645,44816,Francisco Xavier da Silva Neto,PIX,595
+12/09/2022 09:12:01,Lidyane Bento,638,44814,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+12/09/2022 09:12:20,Leonardo Ribeiro,639,44814,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+12/09/2022 09:26:06,Maria José,537,44799,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,130
+12/09/2022 09:32:34,Francisca Reijane,539,44799,Francisco Xavier da Silva Neto,Dinheiro,80
+12/09/2022 09:32:59,Walyson Silvestre,540,44799,Francisco Xavier da Silva Neto,Stone Master Card Crédito,140
+13/09/2022 10:51:27,Pedro Henrique Gonçalves,646,44816,Francisco Xavier da Silva Neto,Stone Visa Crédito,140
+13/09/2022 10:53:51,Aline Batista,651,44816,Francisco Xavier da Silva Neto,Stone Master Card Crédito,130
+13/09/2022 10:55:59,Roberto Camara,654,44817,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+13/09/2022 10:57:02,Nedja Castro,650,44816,Francisco Xavier da Silva Neto,Stone Master Card Crédito,90
+13/09/2022 10:58:07,Rafael Vitor,647,44816,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+13/09/2022 10:58:47,Rayane Christina,649,44816,Francisco Xavier da Silva Neto,Dinheiro,70
+13/09/2022 11:00:21,Maria do Socorro,653,44817,Francisco Xavier da Silva Neto,Stone Master Card Crédito,250
+13/09/2022 11:01:37,Helia Severiano,652,44817,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+13/09/2022 15:48:34,Tathianne Maria,657,44817,Maria Laura Guedes Oliveira,Stone Master Card Crédito,220
+13/09/2022 16:15:43,Maria Helena de Medeiros Rêgo,658,44817,Maria Laura Guedes Oliveira,Stone Visa Débito,220
+14/09/2022 08:04:19,Elson Germano,659,44817,Maria Laura Guedes Oliveira,Stone Visa Crédito,40
+14/09/2022 09:29:58,Francisca Alves de Sousa,660,44818,Maria Laura Guedes Oliveira,Dinheiro,60
+14/09/2022 16:23:56,Thiago Sales,662,44818,Maria Laura Guedes Oliveira,PIX,70
+15/09/2022 08:54:33,Alcides Wandebergne,663,44819,Maria Laura Guedes Oliveira,Stone Master Card Crédito,80
+15/09/2022 09:15:05,Alexandre César,664,44819,Maria Laura Guedes Oliveira,Dinheiro,220
+15/09/2022 09:27:28,Mathus Lucas,661,44818,Maria Laura Guedes Oliveira,Stone Visa Crédito,100
+15/09/2022 09:27:40,Mathus Lucas,661,44818,Maria Laura Guedes Oliveira,Dinheiro,40
+16/09/2022 08:40:53,Maria das Graças Chaves,666,44820,Maria Laura Guedes Oliveira,Dinheiro,70
+16/09/2022 15:36:38,Valeria Regina,670,44820,Maria Laura Guedes Oliveira,PIX,200
+16/09/2022 15:37:21,Valeria Regina,670,44820,Maria Laura Guedes Oliveira,Stone Master Card Débito,100
+16/09/2022 15:49:21,Arnaldo Luiz Freire,671,44820,Maria Laura Guedes Oliveira,Stone Visa Crédito,130
+17/09/2022 12:54:53,Maria das Dores,682,44821,Francisco Xavier da Silva Neto,Stone Master Card Crédito,70
+17/09/2022 12:55:20,Lauren Diniz,681,44821,Francisco Xavier da Silva Neto,Stone Elo Crédito,170
+17/09/2022 12:55:36,Sasha Lustosa,680,44821,Francisco Xavier da Silva Neto,PIX,60
+17/09/2022 12:55:56,Cleide Misael,679,44821,Francisco Xavier da Silva Neto,Stone Hipercard Crédito,70
+17/09/2022 12:56:16,Alexia Araujo,678,44821,Francisco Xavier da Silva Neto,Stone Master Card Crédito,80
+17/09/2022 12:56:46,Sara Silva Pereira Alves,677,44821,Francisco Xavier da Silva Neto,Stone Visa Crédito,200
+17/09/2022 12:57:05,Barbara Aguiar,675,44821,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+17/09/2022 12:57:24,Ivanir Lira,673,44821,Francisco Xavier da Silva Neto,Stone Visa Crédito,175
+17/09/2022 12:57:44,Raquel Antunes,672,44821,Francisco Xavier da Silva Neto,Stone Master Card Crédito,60
+17/09/2022 12:58:07,Ellen Dayane Florêncio Ribeiro,674,44821,Francisco Xavier da Silva Neto,Dinheiro,70
+19/09/2022 17:03:47,Joab Serestino,690,44823,Maria Laura Guedes Oliveira,PIX,70
+19/09/2022 17:04:16,Marlene Nunes,689,44823,Maria Laura Guedes Oliveira,Stone Master Card Crédito,80
+19/09/2022 17:04:48,Jean Paul,688,44823,Maria Laura Guedes Oliveira,Stone Master Card Crédito,90
+19/09/2022 17:05:33,Cybele Ferreira,686,44823,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+19/09/2022 17:05:58,Cris kelly,685,44823,Maria Laura Guedes Oliveira,Stone Elo Crédito,80
+19/09/2022 17:06:25,Aliana Monteiro,684,44823,Maria Laura Guedes Oliveira,PIX,90
+19/09/2022 17:06:44,Maria Eduarda Lins Fernandes,683,44823,Maria Laura Guedes Oliveira,Stone Visa Crédito,250
+20/09/2022 09:25:33,Adriana Pontes,687,44823,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+20/09/2022 09:25:50,Adriana Pontes,687,44823,Maria Laura Guedes Oliveira,Stone Visa Débito,60
+20/09/2022 09:26:18,Manoel Aldemar,691,44823,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+20/09/2022 16:48:36,Jussara Angelica,696,44824,Maria Laura Guedes Oliveira,Stone Visa Crédito,130
+20/09/2022 16:48:58,Manoel Aldemar,693,44824,Maria Laura Guedes Oliveira,Stone Visa Débito,70
+20/09/2022 16:49:19,Handerson Leonardo,692,44824,Maria Laura Guedes Oliveira,Dinheiro,70
+21/09/2022 16:58:20,Mayara Fernandes,700,44825,Maria Laura Guedes Oliveira,PIX,70
+21/09/2022 16:59:47,Jean Silva,698,44825,Maria Laura Guedes Oliveira,PIX,70
+21/09/2022 17:01:43,Adriana Dias,699,44825,Maria Laura Guedes Oliveira,Dinheiro,60
+21/09/2022 17:03:49,,701,44825,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+22/09/2022 16:59:43,Sanderson Felipe dos Anjos,703,44826,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+22/09/2022 17:00:17,Deyse Oliveira,704,44826,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+22/09/2022 17:01:03,Judson Diego,705,44826,Maria Laura Guedes Oliveira,Stone Visa Crédito,280
+22/09/2022 17:05:19,Gabriella Dantas Araujo,706,44826,Maria Laura Guedes Oliveira,Stone Elo Débito,150
+23/09/2022 16:33:38,Andrea Maria,709,44827,Maria Laura Guedes Oliveira,Stone Visa Crédito,175
+23/09/2022 16:34:14,Wilma Fernandes,707,44827,Maria Laura Guedes Oliveira,PIX,220
+23/09/2022 16:38:47,Ivanira Maria,710,44827,Maria Laura Guedes Oliveira,Stone Master Card Débito,60
+23/09/2022 16:39:25,Dhimas,712,44827,Maria Laura Guedes Oliveira,Dinheiro,70
+23/09/2022 16:39:49,Cris kelly,714,44827,Maria Laura Guedes Oliveira,Dinheiro,60
+23/09/2022 16:56:23,Greyce Silva,713,44827,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+24/09/2022 12:10:25,Mariana Patricia de Medeiros Linhares,717,44828,Maria Laura Guedes Oliveira,Stone Master Card Crédito,60
+24/09/2022 12:12:06,Lauren Diniz,716,44828,Maria Laura Guedes Oliveira,Stone Visa Crédito,175
+26/09/2022 17:12:02,Raphael Silva,721,44830,Maria Laura Guedes Oliveira,Stone Master Card Crédito,160
+26/09/2022 17:13:30,Juliene Camara,720,44830,Maria Laura Guedes Oliveira,Stone Visa Crédito,220
+26/09/2022 17:13:48,Juliene Camara,720,44830,Maria Laura Guedes Oliveira,Stone Visa Crédito,250
+26/09/2022 17:14:38,Jéssica Pereira,719,44830,Maria Laura Guedes Oliveira,Stone Elo Débito,80
+26/09/2022 17:17:20,Yago Pablo,723,44830,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+26/09/2022 17:18:14,José Eduardo,724,44830,Maria Laura Guedes Oliveira,Stone Visa Crédito,70
+26/09/2022 17:18:49,Thiago Felipe,725,44830,Maria Laura Guedes Oliveira,Stone Visa Débito,80
+26/09/2022 17:20:25,Luciana Barreto,722,44830,Maria Laura Guedes Oliveira,Stone Master Card Crédito,150
+26/09/2022 17:21:17,Luciana Barreto,722,44830,Maria Laura Guedes Oliveira,Dinheiro,120
+27/09/2022 16:46:57,Rafael Costa,730,44831,Maria Laura Guedes Oliveira,PIX,70
+27/09/2022 16:47:39,VALMIR DE MACEDO,729,44831,Maria Laura Guedes Oliveira,Stone Master Card Crédito,140
+27/09/2022 16:48:28,Tácito Carlos,726,44831,Maria Laura Guedes Oliveira,Stone Visa Débito,130
+27/09/2022 17:09:57,Ana Lúcia das Chagas,734,44831,Maria Laura Guedes Oliveira,Dinheiro,80
+27/09/2022 17:10:30,Neide Araújo,733,44831,Maria Laura Guedes Oliveira,Stone Visa Crédito,80
+27/09/2022 17:12:10,Juliana Caroline Alves,735,44831,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+28/09/2022 08:37:17,Maria de Socorro,732,44831,Maria Laura Guedes Oliveira,Dinheiro,80
+28/09/2022 08:37:40,Luiz Nunes,731,44831,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+28/09/2022 16:56:07,Heloyze Vasconcelos,737,44832,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+28/09/2022 16:56:49,Welson de Souza Henrique,736,44832,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+29/09/2022 17:04:10,Andrea Maria,743,44833,Maria Laura Guedes Oliveira,Stone Visa Crédito,300
+29/09/2022 17:04:31,Jéssika Bárbara Salustro,741,44833,Maria Laura Guedes Oliveira,PIX,80
+29/09/2022 17:05:00,Adriana Dias,742,44833,Maria Laura Guedes Oliveira,Dinheiro,70
+29/09/2022 17:05:46,Janaina Gurgel,738,44833,Maria Laura Guedes Oliveira,Stone Elo Crédito,70
+29/09/2022 17:06:08,André Marinho,740,44833,Maria Laura Guedes Oliveira,Stone Visa Débito,220
+30/09/2022 16:42:24,Ericka Fabiana,749,44834,Maria Laura Guedes Oliveira,Stone Visa Crédito,120
+30/09/2022 16:43:39,Diego Brandão,748,44834,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+30/09/2022 16:44:11,Cynthia Carla,747,44834,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+01/10/2022 08:45:08,William,750,44835,Maria Laura Guedes Oliveira,Stone Visa Crédito,60
+01/10/2022 10:40:19,Suelen Ferreira,751,44835,Maria Laura Guedes Oliveira,Dinheiro,1850
+01/10/2022 12:08:06,Thayse Melo,756,44835,Maria Laura Guedes Oliveira,Stone Visa Débito,70
+01/10/2022 12:08:39,Rita de Cássia,754,44835,Maria Laura Guedes Oliveira,Stone Elo Débito,70
+01/10/2022 12:09:23,Maria das Neves,755,44835,Maria Laura Guedes Oliveira,Dinheiro,80
+01/10/2022 12:09:48,Anivaldo Fonseca,753,44835,Maria Laura Guedes Oliveira,PIX,80
+01/10/2022 12:10:25,Gabriela Ferreira,752,44835,Maria Laura Guedes Oliveira,Stone Master Card Crédito,90
+04/10/2022 16:45:07,Rafael Vitor,763,44838,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+04/10/2022 16:45:31,Andreza Duarte,762,44838,Maria Laura Guedes Oliveira,Stone Visa Débito,220
+04/10/2022 16:46:37,Assis Batista,761,44838,Maria Laura Guedes Oliveira,Stone Hipercard Crédito,125
+04/10/2022 16:46:50,Assis Batista,761,44838,Maria Laura Guedes Oliveira,Stone Hipercard Crédito,125
+04/10/2022 16:47:21,Ivanira Maria,760,44838,Maria Laura Guedes Oliveira,Stone Master Card Débito,80
+04/10/2022 16:48:19,Francione Maurício,757,44838,Maria Laura Guedes Oliveira,Stone Master Card Crédito,80
+04/10/2022 16:48:49,Maria de Fatima,759,44838,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+04/10/2022 16:49:11,Emanuel Ferreira,758,44838,Maria Laura Guedes Oliveira,Stone Elo Débito,70
+05/10/2022 16:52:23,Erica Araujo,769,44839,Maria Laura Guedes Oliveira,PIX,70
+05/10/2022 16:52:46,Maize Cristina,768,44839,Maria Laura Guedes Oliveira,Stone Visa Crédito,70
+05/10/2022 16:53:29,Wildy Costa,766,44839,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+05/10/2022 16:53:50,Helia Severiano,765,44839,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+05/10/2022 16:55:17,Lila Furtado,773,44839,Maria Laura Guedes Oliveira,Dinheiro,140
+05/10/2022 16:55:40,Roseane Costa,772,44839,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+05/10/2022 16:56:05,Adriene Kelly,771,44839,Maria Laura Guedes Oliveira,Stone Visa Crédito,130
+05/10/2022 16:57:52,Diva Celeste,774,44839,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+05/10/2022 16:58:36,Francione Maurício,775,44839,Maria Laura Guedes Oliveira,Stone Master Card Crédito,250
+05/10/2022 16:59:51,Mathus Lucas,764,44839,Maria Laura Guedes Oliveira,Stone Visa Crédito,140
+06/10/2022 16:56:47,Kennedy Pereira,781,44840,Maria Laura Guedes Oliveira,Stone Visa Débito,70
+06/10/2022 16:57:10,Joallyson mayco,780,44840,Maria Laura Guedes Oliveira,Stone Master Card Débito,80
+06/10/2022 16:57:29,Emmilly Camilly,779,44840,Maria Laura Guedes Oliveira,PIX,80
+06/10/2022 16:57:52,Lidiane Barbosa,778,44840,Maria Laura Guedes Oliveira,Stone Visa Crédito,80
+06/10/2022 16:58:29,Geiza Maria,776,44840,Maria Laura Guedes Oliveira,Stone Visa Crédito,295
+07/10/2022 16:29:45,Jaise Morais,786,44841,Maria Laura Guedes Oliveira,Stone Master Card Crédito,80
+07/10/2022 16:31:11,Damião Amaro,785,44841,Maria Laura Guedes Oliveira,Stone Master Card Crédito,130
+07/10/2022 16:31:37,Thais Vidigal,784,44841,Maria Laura Guedes Oliveira,Stone Master Card Crédito,240
+08/10/2022 12:40:23,Janaína Nascimento,790,44842,Maria Laura Guedes Oliveira,Dinheiro,100
+08/10/2022 12:40:35,Janaína Nascimento,790,44842,Maria Laura Guedes Oliveira,Stone Elo Débito,99
+08/10/2022 12:41:01,Júlia Rodna,789,44842,Maria Laura Guedes Oliveira,PIX,70
+08/10/2022 12:41:33,Gabriela Ferreira,787,44842,Maria Laura Guedes Oliveira,Stone Master Card Crédito,70
+10/10/2022 10:27:54,Allene Moura,783,44841,Francisco Xavier da Silva Neto,Stone Visa Crédito,180
+10/10/2022 10:29:23,Ralisson Correia,792,44844,Maria Laura Guedes Oliveira,Stone Visa Crédito,70
+10/10/2022 10:29:42,Fabricia Heloise,793,44844,Maria Laura Guedes Oliveira,Dinheiro,80
+10/10/2022 16:58:38,Nedja Castro,797,44844,Maria Laura Guedes Oliveira,PIX,90
+10/10/2022 16:58:57,Beatriz Bastos,795,44844,Maria Laura Guedes Oliveira,PIX,70
+10/10/2022 16:59:52,Ester Mereciano,791,44844,Maria Laura Guedes Oliveira,Stone Master Card Crédito,140
+10/10/2022 17:00:41,Manoel Aldemar,794,44844,Maria Laura Guedes Oliveira,PIX,70
+10/10/2022 17:04:00,Alefh,796,44844,Maria Laura Guedes Oliveira,Dinheiro,140
+10/10/2022 17:05:28,Antonia Alves,799,44844,Maria Laura Guedes Oliveira,Stone Elo Débito,260
+11/10/2022 16:38:15,Lidiane Barbosa,806,44845,Maria Laura Guedes Oliveira,PIX,60
+11/10/2022 16:39:51,Maria Aparecida,805,44845,Maria Laura Guedes Oliveira,Stone Master Card Crédito,130
+11/10/2022 16:41:02,Maria das Dores,801,44845,Maria Laura Guedes Oliveira,PIX,70
+13/10/2022 09:11:25,,809,44847,Maria Laura Guedes Oliveira,Stone Master Card Crédito,150
+13/10/2022 09:16:00,Jussara Angelica,803,44845,Maria Laura Guedes Oliveira,Stone Visa Crédito,170
+13/10/2022 09:16:31,Ricardo Dias,800,44845,Maria Laura Guedes Oliveira,Stone Master Card Crédito,100
+13/10/2022 09:17:26,Maria das Neves,810,44847,Maria Laura Guedes Oliveira,Stone Master Card Crédito,140
+14/10/2022 08:08:35,Maria das Graças Chaves,808,44847,Maria Laura Guedes Oliveira,Dinheiro,70
+14/10/2022 08:08:59,Mayara Fernandes,815,44847,Maria Laura Guedes Oliveira,Stone Master Card Débito,70
+14/10/2022 08:09:23,Moali,811,44847,Maria Laura Guedes Oliveira,Stone Elo Débito,80
+14/10/2022 08:16:30,Markssuel Bezerra,816,44847,Maria Laura Guedes Oliveira,PIX,140
+14/10/2022 08:17:42,Fernanda Menezes,817,44847,Maria Laura Guedes Oliveira,Stone Master Card Crédito,80
+14/10/2022 08:21:06,Anne Caroline,814,44847,Maria Laura Guedes Oliveira,Stone Visa Crédito,80
+14/10/2022 08:43:43,Antonia Claudia,818,44847,Maria Laura Guedes Oliveira,PIX,140
+14/10/2022 08:50:16,Fernanda Menezes,353,44768,Francisco Xavier da Silva Neto,Stone Master Card Crédito,220
+14/10/2022 16:24:36,Edjane Souza,822,44848,Maria Laura Guedes Oliveira,Stone Visa Crédito,70
+14/10/2022 16:25:06,Cilene Meireles,820,44848,Maria Laura Guedes Oliveira,Stone Master Card Crédito,140
+14/10/2022 16:25:34,Veneranda,821,44848,Maria Laura Guedes Oliveira,Stone Elo Crédito,550
